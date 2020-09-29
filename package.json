@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "electron": "^10.1.2"
+  },
+  "dependencies": {
+    "node-ipc": "^9.1.1"
   }
 }
